@@ -1,0 +1,26 @@
+- :zap: I love android, blog writing
+- 🌱 I’m addicted to learning and growing every day
+- :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs
+- 📫 How to find me: 
+  - :bulb: [Medium articles](https://medium.com/@velmurugan-murugesan)
+  - :office: [LinkedIn](https://www.linkedin.com/in/velmurugan-m/)
+  - :spider_web: [howtodoandroid.com](http://howtodoandroid.com/)
+
+[![Velmurugan's github stats](https://github-readme-stats.vercel.app/api?username=velmurugan-murugesan&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=velmurugan-murugesan)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
+**velmurugan35/velmurugan35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
